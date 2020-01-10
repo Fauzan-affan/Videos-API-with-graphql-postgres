@@ -24,7 +24,7 @@ Run **index.js** file with `node`:
 node index.js
 ```
 
-Run **index.js** file with 'nodemon':
+Run **index.js** file with `nodemon`:
 
 ```js
 nodemon index.js
